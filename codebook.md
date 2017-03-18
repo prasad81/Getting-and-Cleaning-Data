@@ -2,8 +2,9 @@
 # Coursera: Getting and Cleaning Data
 output: html_document
 ------------
-
+------------
 # Codebook
+------------
 
 The generated output is saved to the file tidy-data.csv. This file includes all rows merged from the test and training data included in the activity recognition dataset.
 
