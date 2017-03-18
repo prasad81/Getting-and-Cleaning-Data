@@ -1,6 +1,5 @@
 # Coursera: Getting and Cleaning Data
-------------
-------------
+
 # Codebook
 ------------
 
