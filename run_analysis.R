@@ -63,7 +63,7 @@ names(mergeddatafeatures)<- features$V2
 #merge the columns to get the single datafram
 dataCombine <- cbind(mergeddatasubject, mergeddataactivity)
 Data <- cbind(mergeddatafeatures, dataCombine)
-View(Data)
+##View(Data)
 
 #### 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 
@@ -83,7 +83,7 @@ names(Data)<-gsub("Gyro", "Gyroscope", names(Data))
 names(Data)<-gsub("Mag", "Magnitude", names(Data))
 names(Data)<-gsub("BodyBody", "Body", names(Data))
 
-names(Data)
+##names(Data)
  
  
 
