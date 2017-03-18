@@ -18,7 +18,7 @@ I created a script called run_analysis.R which will merge the test and training 
 2. the UCI HAR Dataset must be availble in a directory called "UCI HAR Dataset"
 After merging testing and training, labels are added and only columns that have to do with mean and standard deviation are kept.
 
-Lastly, the script will create a tidy data set containing the means of all the columns per test subject and per activity. This tidy dataset will be written to a tab-delimited file called tidy.txt, which can also be found in this repository.
+Lastly, the script will create a tidy data set containing the means of all the columns per test subject and per activity. This tidy dataset will be written to  tidydata.csv, which can also be found in this repository.
 
 ### About the Code Book
 
