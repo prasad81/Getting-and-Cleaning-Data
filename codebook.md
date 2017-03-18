@@ -1,6 +1,4 @@
--------------
 # Coursera: Getting and Cleaning Data
-output: html_document
 ------------
 ------------
 # Codebook
